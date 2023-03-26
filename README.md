@@ -1,8 +1,9 @@
-# Jake Hoffman
+<h1 align="Left">Hello! I'm Jake </h1>
+<h4 align="Left">I'm a software engineer interested in graphics, type systems, and low-level programming. </h4>
 
-<a style="float: left; width: 50%" href="https://github.com/jakehffn">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakehffn">
-</a>
-<a style="float: right; width: 50%" href="https://github.com/jakehffn">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakehffn&layout=compact">
-</a>
+I'm currently open to work! Feel free to contact me at one of the links below.
+
+Email - **[contact@jakehoffman.dev](mailto:contact@jakehoffman.dev)**<br>
+Linkedin - **[linkedin.com/in/jake-t-hoffman/](https://www.linkedin.com/in/jake-t-hoffman/)**<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakehffn&layout=compact&theme=gruvbox">
