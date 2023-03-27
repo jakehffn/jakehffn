@@ -1,5 +1,5 @@
 <h1 align="Left">Hello! I'm Jake </h1>
-<h4 align="Left">I'm a software engineer interested in graphics, type systems, and low-level programming. </h4>
+<h4 align="Left">I'm a software engineer and C++ enthusiast interested in graphics, type systems, and low-level programming. </h4>
 
 I'm currently open to work! Feel free to contact me at one of the links below.
 
